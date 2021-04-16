@@ -1,0 +1,31 @@
+body{
+background-color: blue;
+}
+.container{
+font-weight: bold;
+
+}
+.name{
+    float:left;
+    font-size: 40px;
+}
+.image{
+padding-left:800px;
+}
+.Frontlinks{
+    display: flex;
+}
+.image1{
+    padding-right: 10px;
+}
+.image2{
+    padding-left: 30px;
+}
+.image3 img{
+    padding-left:30px;
+
+
+}
+    
+
+
